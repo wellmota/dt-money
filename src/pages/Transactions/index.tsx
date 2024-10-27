@@ -8,7 +8,7 @@ import {
   TransactionsTable,
 } from "./styles"
 import { TransactionsContext } from "../../contexts/TransactionsContext"
-import { dateFormatter, priceFormatter } from "../../utils/formater"
+import { dateFormatter, priceFormatter } from "../../utils/formatter"
 
 interface Transactions {
   id: number
