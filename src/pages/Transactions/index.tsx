@@ -16,7 +16,7 @@ interface Transactions {
   category: string
   price: number
   createdAt: string
-}
+} 
 
 export function Transactions() {
   const { transactions } = useContext(TransactionsContext)
