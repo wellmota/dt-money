@@ -39,6 +39,30 @@
       "type": "outcome",
       "createdAt": "2024-11-07T21:31:40.204Z",
       "id": "UsDy5wq"
+    },
+    {
+      "category": "food",
+      "description": "Teste",
+      "price": 19,
+      "type": "income",
+      "createdAt": "2024-11-10T01:58:18.000Z",
+      "id": "PVCwTS4"
+    },
+    {
+      "category": "food",
+      "description": "Banana",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-11-10T02:19:21.246Z",
+      "id": "4xEeSXE"
+    },
+    {
+      "category": "food",
+      "description": "Banana",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2024-11-10T02:19:57.751Z",
+      "id": "XiuxTdJ"
     }
   ]
 }
