@@ -23,6 +23,22 @@
       "category": "Education",
       "price": 1980,
       "createdAt": "2024-10-25T15:21:22.433Z"
+    },
+    {
+      "category": "Site build",
+      "description": "Site development",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2024-11-07T21:29:19.825Z",
+      "id": "RoWgswa"
+    },
+    {
+      "category": "food",
+      "description": "Pizza",
+      "price": 50,
+      "type": "outcome",
+      "createdAt": "2024-11-07T21:31:40.204Z",
+      "id": "UsDy5wq"
     }
   ]
 }
