@@ -63,6 +63,14 @@
       "type": "outcome",
       "createdAt": "2024-11-10T02:19:57.751Z",
       "id": "XiuxTdJ"
+    },
+    {
+      "category": "work",
+      "description": "Site",
+      "price": 20000,
+      "type": "income",
+      "createdAt": "2024-11-15T18:56:20.311Z",
+      "id": "-ryYeuO"
     }
   ]
 }
